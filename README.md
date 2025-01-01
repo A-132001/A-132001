@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Abdelrahman Sabry (Abdo)**, a passionate **F
 ## 🌟 About Me
 
 - 🖥️ Full-Stack Developer with a focus on backend development.
-- 📍 Based in Beheira Governorate, Egypt.
+- 📍 Based in Sohag Governorate, Egypt.
 - 🎓 Graduated with a project distinction, focusing on building scalable and user-friendly web applications.
 - 🎯 Enrolled in the ITI Full-Stack Development Course (Python Track).
 - 🤖 Exploring AI to enhance web development projects.
