@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm **Abdelrahman Sabry (Abdo)**, a passionate **F
 - 🎯 Enrolled in the ITI Full-Stack Development Course (Python Track).
 - 🤖 Exploring AI to enhance web development projects.
 - ☕ Coffee enthusiast and lifelong learner.
-- 🧮 Solved over **500 problems** on Codeforces and **500 problems** on HackerRank, enhancing my problem-solving and algorithmic skills.
+- 🧮 Solved over **500 problems** on Codeforces and **1500 problems** on HackerRank, enhancing my problem-solving and algorithmic skills.
 
 ---
 
